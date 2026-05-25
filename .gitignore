@@ -1,0 +1,12 @@
+# Ignore local env files and secret credentials
+**/.env
+**/.env.local
+**/.env.*.local
+!**/.env.example
+.dev.vars
+
+# Ignore local tool and editor files
+.wrangler/
+.vscode/
+.idea/
+.DS_Store
