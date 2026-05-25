@@ -109,17 +109,13 @@ GEMINI_API_KEY="your-google-gemini-api-key"
 
 | Description | Preview |
 | --- | --- |
-| Landing / auth flow | ![Preview](./ScreenShots/1 Screenshot of Preview.jpg) |
-| Analytics / dashboard | ![Analytics](./ScreenShots/2 Ai Pathshala analyitcs .jpg) |
-| Cloud / course workspace | ![Cloud](./ScreenShots/3 PathShala Cloud .jpg) |
-| Project explainer | ![Explainer](./Project explainer image 1.png) |
-| Architecture overview | ![Architecture](./Project explainer image2.png) |
+| Landing / auth flow | ![Preview](./ScreenShots/preview-auth.jpg) |
+| Analytics / dashboard | ![Analytics](./ScreenShots/dashboard-analytics.jpg) |
+| Cloud / course workspace | ![Cloud](./ScreenShots/pathshala-cloud.jpg) |
+| Project explainer | ![Explainer](./Project-explainer-1.png) |
+| Architecture overview | ![Architecture](./Project-explainer-2.png) |
 
-### GIF Demo
-
-![GIF Demo](./ScreenShots/ai-pathshala-demo.gif)
-
-> Replace the demo GIF path with the project recording file once available.
+> Add a demo GIF file to `./ScreenShots/ai-pathshala-demo.gif` if you want an animated preview.
 
 ## 🌐 Deployment
 
